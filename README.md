@@ -85,15 +85,8 @@ Our vision is to transform the hackathon ecosystem by creating a trustless, tran
 
 ### Testnet
 ```
-Contract Address: 0x[TO_BE_DEPLOYED]
+Contract Address:0x4c8482749048dedcc4b472beaa536876a67b1a435797b0757bfb4638c989c002
 Network: Aptos Testnet
-Module: MyModule::HackathonBountyBoard
-```
-
-### Mainnet
-```
-Contract Address: 0x[TO_BE_DEPLOYED]
-Network: Aptos Mainnet
 Module: MyModule::HackathonBountyBoard
 ```
 
